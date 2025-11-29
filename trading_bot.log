@@ -1,0 +1,64 @@
+2025-11-30 04:03:05,140 - INFO - Bot initialized with testnet=True
+2025-11-30 04:03:06,038 - INFO - Setup complete for BTCUSDT: QtyPrec=3, PricePrec=2, MinNotional=100.0
+2025-11-30 04:06:42,253 - INFO - Bot initialized with testnet=True
+2025-11-30 04:06:43,303 - INFO - Setup complete for BTCUSDT: QtyPrec=3, PricePrec=2, MinNotional=100.0
+2025-11-30 04:06:44,020 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:06:44,403 - INFO - SUCCESS: BUY order 10629630035 filled/placed.
+2025-11-30 04:06:48,184 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:06:48,576 - INFO - SUCCESS: SELL order 10629630086 filled/placed.
+2025-11-30 04:06:52,360 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:06:52,561 - INFO - SUCCESS: BUY order 10629630117 filled/placed.
+2025-11-30 04:06:55,916 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:06:56,286 - INFO - SUCCESS: SELL order 10629630139 filled/placed.
+2025-11-30 04:06:59,705 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:00,165 - INFO - SUCCESS: BUY order 10629630165 filled/placed.
+2025-11-30 04:07:03,701 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:04,110 - INFO - SUCCESS: SELL order 10629630212 filled/placed.
+2025-11-30 04:07:07,643 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:08,049 - INFO - SUCCESS: BUY order 10629630225 filled/placed.
+2025-11-30 04:07:11,578 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:11,970 - INFO - SUCCESS: SELL order 10629630268 filled/placed.
+2025-11-30 04:07:15,515 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:15,990 - INFO - SUCCESS: BUY order 10629630321 filled/placed.
+2025-11-30 04:07:19,797 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:19,949 - INFO - SUCCESS: SELL order 10629630357 filled/placed.
+2025-11-30 04:07:23,700 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:24,067 - INFO - SUCCESS: BUY order 10629630416 filled/placed.
+2025-11-30 04:07:27,603 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:27,803 - INFO - SUCCESS: SELL order 10629630464 filled/placed.
+2025-11-30 04:07:31,117 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:31,631 - INFO - SUCCESS: BUY order 10629630499 filled/placed.
+2025-11-30 04:07:35,373 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:35,780 - INFO - SUCCESS: SELL order 10629630524 filled/placed.
+2025-11-30 04:07:39,557 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:39,790 - INFO - SUCCESS: BUY order 10629630563 filled/placed.
+2025-11-30 04:07:43,523 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:43,884 - INFO - SUCCESS: SELL order 10629630579 filled/placed.
+2025-11-30 04:07:47,657 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:47,874 - INFO - SUCCESS: BUY order 10629630605 filled/placed.
+2025-11-30 04:07:51,629 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:51,787 - INFO - SUCCESS: SELL order 10629630639 filled/placed.
+2025-11-30 04:07:55,346 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:55,712 - INFO - SUCCESS: BUY order 10629630661 filled/placed.
+2025-11-30 04:07:59,221 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:07:59,603 - INFO - SUCCESS: SELL order 10629630672 filled/placed.
+2025-11-30 04:08:03,127 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:03,485 - INFO - SUCCESS: BUY order 10629630719 filled/placed.
+2025-11-30 04:08:07,263 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:07,746 - INFO - SUCCESS: SELL order 10629630746 filled/placed.
+2025-11-30 04:08:11,263 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:11,626 - INFO - SUCCESS: BUY order 10629630774 filled/placed.
+2025-11-30 04:08:15,376 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:15,858 - INFO - SUCCESS: SELL order 10629630809 filled/placed.
+2025-11-30 04:08:19,652 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:19,829 - INFO - SUCCESS: BUY order 10629630835 filled/placed.
+2025-11-30 04:08:23,141 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:23,287 - INFO - SUCCESS: SELL order 10629630856 filled/placed.
+2025-11-30 04:08:27,032 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:27,449 - INFO - SUCCESS: BUY order 10629630890 filled/placed.
+2025-11-30 04:08:30,991 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:31,392 - INFO - SUCCESS: SELL order 10629630946 filled/placed.
+2025-11-30 04:08:34,932 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:35,116 - INFO - SUCCESS: BUY order 10629630996 filled/placed.
+2025-11-30 04:08:38,865 - INFO - Placing Order: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.002}
+2025-11-30 04:08:39,382 - INFO - SUCCESS: SELL order 10629631029 filled/placed.
